@@ -1,0 +1,87 @@
+
+
+{
+      "Menu":[{
+   
+   
+   "appetizers": [{
+             "name": "DEV soup",
+             "description": "Warm and cozy on cold days around Bryan University",
+             "ingredients": ["broccoli, cheese ,  garlic "]},
+             
+   {
+             "name": "FSW Sweet and Sour",
+             "description": "It's always hot ! But sometimes its sweet, sometimes she can be real sour !",
+             "ingredients": ["Eggplant, egg flour, cheap package of spices from safeway."]
+             }],
+   
+    "coldSandwitch": [{
+   
+            "name": "Cold old Cerego",
+            "description": " She's old, She's cold and leaves no mercy !",
+            "ingredients": ["bread, ham, cheese"]},
+   
+   {
+            "name": "The Sandy Wrath",
+            "description": "A slightly warmed sourdough biscuit with a happy holiday flavor.",
+            "ingredients": ["bread, turkey, cranberries, pesto, cream cheese, veggie."]}],
+         
+   
+   
+   "hotSandwitch": [{
+   
+            "name": "Comatose",
+            "description": "She's a fattie ! Everything in the fridge gets heated up and served on a hoagie roll ! ",
+            "ingredients":[ "Salami, Ham, Turkey, Salad leftover from the night before, Mustard, Mayo, Pickles, Olives, Bacon, Pesto, Special sauce ! "]},
+   
+   {
+            "name": "The Runner",
+            "description": "Run on in ! We have the runner for those on the go ! A SIMPLE WARM SUB for those that have a lot to do !",
+            "ingredients": ["Your choice of bread, your choice of cheese, your choice of 1 meat, all grilled lightley to a melted profection"]}],
+   
+   
+   
+   
+   
+   "deserts": [{
+   
+            "name": "The Factory",
+            "description": "everything frozen.....everything",
+            "ingredients":["frozen everything.....including A record player"]},
+   
+   {
+   
+         "name": "The monster",
+         "description": "Six Prunes frozen on a stick",
+         "ingredients": ["prunes.....just prunes..."]}],
+   
+   
+   
+   "drinks": [{
+      
+         "name": "The muffin man",
+         "description": "do you know him ? he's wild !",
+         "ingredients": ["Vodka,Rum, Sprits, Lemon juice, Aged fruit"]},
+   
+   {
+         "name": "The Ion Defibrillator",
+         "description" : "She makes you go night - night...bye !",
+         "ingredients" : ["Vodka, Rum, Soda, Tequila, Whisky, Gin, Lots of fruit juice"]}
+   ]
+}
+]
+}
+   
+   
+   
+   
+    
+   
+   
+      
+   
+   
+   
+   
+          
+   
