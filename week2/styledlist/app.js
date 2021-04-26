@@ -1,4 +1,4 @@
-var dragonBallz = [
+let dragonBallz = [
     "Goku",
     "Trucks",
     "Vegta",

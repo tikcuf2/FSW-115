@@ -23,5 +23,7 @@ let myInfo =[
 let myInfoList = document.getElementById("data")
 
     for (var i = 0; i < myInfo.length; i++ ){
-        myInfoList.innerHTML += "<li>" +"Planet:" + myInfo[i].name + "-" +"Population:"+ myInfo[i].population +"</li>"
+        myInfoList.innerHTML += "<li>"
+         +"Planet:" + myInfo[i].name + "-" 
+         +"Population:"+ myInfo[i].population +"</li>"
     }
